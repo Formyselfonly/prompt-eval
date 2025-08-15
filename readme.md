@@ -37,7 +37,7 @@ Directly tell the AI what to do.
 2.2 Role-Based Prompting
 Ask the AI to act as a specific role.
 ✅ Example:
-"Act as a product manager and draft a PRD for an AI chatbot."
+"Act as a product manager and draft a PRD for an AI chatbot_tutorial."
 "You are a legal advisor. Explain GDPR compliance in simple terms."
 2.3 Few-Shot Prompting
 Provide examples to guide the AI’s response.
